@@ -1,0 +1,24 @@
+/** @type {import('tailwindcss').Config} */
+export default {
+  content: [
+    "./index.html",
+    "./src/**/*.{js,ts,jsx,tsx}",
+  ],
+  theme: {
+    extend: {
+      fontFamily: {
+        sans: ['Roboto', 'sans-serif'],
+      },
+      colors:{
+        primaryColor: 'hsl(4, 100%, 67%)',
+        secondaryColor: 'hsl(347, 100%, 66%)',
+        charcoalGrey: 'hsl(235, 18%, 26%)',
+        grey:'hsl(231, 7%, 60%)',
+        white:'hsl(0, 0%, 100%)'
+
+      }
+    },
+  },
+  plugins: [],
+}
+
