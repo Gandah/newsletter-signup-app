@@ -58,7 +58,7 @@ Users should be able to:
 
 ### What I learned
 
-Used react router for redirecting users to success pages
+Used react router for redirecting users to a success page
 
 ```js
   <Router>
@@ -75,7 +75,7 @@ Used react router for redirecting users to success pages
 
 ## Author
 
-- LinkedIn - [Gandah](https://www.your-site.com)
+- LinkedIn - [Gandah](https://www.linkedin.com/in/gandahkelvin/)
 - Frontend Mentor - [@Gandah](https://www.frontendmentor.io/profile/Gandah)
 - Twitter - [@mr_g4nderson](https://twitter.com/mr_g4nderson?t=A5NobjZab2sVEdh3Zq9s0A&s=09)
 
